@@ -2,12 +2,6 @@
 
 int main ()
 {
-
-
-
-
-
-
         int i , sum = 0 , n ;
 
         printf("Enter any desimal Number : ");
