@@ -17,7 +17,7 @@ int main()
             }
                     
       }
-    printf("\nThe Sum of odd Natural Number upto 10 terms : %d\n", sum);
+    printf("\nThe Sum of odd Natural Number upto %d terms : %d\n",limit, sum);
 
     return 0;
 }
