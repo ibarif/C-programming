@@ -2,7 +2,7 @@
 
 int main (){
 
-    int a, B = 0 , Mal =1;
+    int a, Mal =1;
 
     printf("Enter any number : ");
     scanf("%d", &a);
