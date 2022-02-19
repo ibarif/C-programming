@@ -15,9 +15,9 @@ int main (){
         Gh = 40*10 + ( th-40 ) *20;
             if(th > 40)
             {
-            printf("\nCard number %d , Total Hours %d , Total salry %d\n\n", Ca, th, Gh);
+            printf("\nCard number %d , Total Hours %d , Total salary %d\n\n", Ca, th, Gh);
             }else{
-                printf("\nCard number %d , Total Hours %d , Total salry %d\n\n", Ca, th, Lh);
+                printf("\nCard number %d , Total Hours %d , Total salary %d\n\n", Ca, th, Lh);
             }
         printf("if you try again prass enter , else enter any key\n\n");
         
