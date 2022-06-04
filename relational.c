@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-//Relational Operator
+//Relational Operator {(==)(>, >=)(<, <=)(!=)}
 
 int main() {
     printf("01 . %d \n", 4==4);
